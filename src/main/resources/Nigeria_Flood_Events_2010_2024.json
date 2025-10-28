@@ -1,0 +1,497 @@
+[
+    {
+        "year": 2010,
+        "events": [
+            {
+                "state": "Lagos",
+                "lgas_affected": 10,
+                "people_affected": 500000,
+                "latitude": 6.5244,
+                "longitude": 3.3792
+            },
+            {
+                "state": "Kano",
+                "lgas_affected": 7,
+                "people_affected": 300000,
+                "latitude": 12.0022,
+                "longitude": 8.5920
+            },
+            {
+                "state": "Rivers",
+                "lgas_affected": 5,
+                "people_affected": 200000,
+                "latitude": 4.8156,
+                "longitude": 7.0498
+            },
+            {
+                "state": "Kogi",
+                "lgas_affected": 8,
+                "people_affected": 250000,
+                "latitude": 7.7337,
+                "longitude": 6.6906
+            }
+        ]
+    },
+    {
+        "year": 2011,
+        "events": [
+            {
+                "state": "Lagos",
+                "lgas_affected": 10,
+                "people_affected": 500000,
+                "latitude": 6.5244,
+                "longitude": 3.3792
+            },
+            {
+                "state": "Kano",
+                "lgas_affected": 7,
+                "people_affected": 300000,
+                "latitude": 12.0022,
+                "longitude": 8.5920
+            },
+            {
+                "state": "Rivers",
+                "lgas_affected": 5,
+                "people_affected": 200000,
+                "latitude": 4.8156,
+                "longitude": 7.0498
+            },
+            {
+                "state": "Kogi",
+                "lgas_affected": 8,
+                "people_affected": 250000,
+                "latitude": 7.7337,
+                "longitude": 6.6906
+            }
+        ]
+    },
+    {
+        "year": 2012,
+        "events": [
+            {
+                "state": "Lagos",
+                "lgas_affected": 10,
+                "people_affected": 500000,
+                "latitude": 6.5244,
+                "longitude": 3.3792
+            },
+            {
+                "state": "Kano",
+                "lgas_affected": 7,
+                "people_affected": 300000,
+                "latitude": 12.0022,
+                "longitude": 8.5920
+            },
+            {
+                "state": "Rivers",
+                "lgas_affected": 5,
+                "people_affected": 200000,
+                "latitude": 4.8156,
+                "longitude": 7.0498
+            },
+            {
+                "state": "Kogi",
+                "lgas_affected": 8,
+                "people_affected": 250000,
+                "latitude": 7.7337,
+                "longitude": 6.6906
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "events": [
+            {
+                "state": "Lagos",
+                "lgas_affected": 10,
+                "people_affected": 500000,
+                "latitude": 6.5244,
+                "longitude": 3.3792
+            },
+            {
+                "state": "Kano",
+                "lgas_affected": 7,
+                "people_affected": 300000,
+                "latitude": 12.0022,
+                "longitude": 8.5920
+            },
+            {
+                "state": "Rivers",
+                "lgas_affected": 5,
+                "people_affected": 200000,
+                "latitude": 4.8156,
+                "longitude": 7.0498
+            },
+            {
+                "state": "Kogi",
+                "lgas_affected": 8,
+                "people_affected": 250000,
+                "latitude": 7.7337,
+                "longitude": 6.6906
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "events": [
+            {
+                "state": "Lagos",
+                "lgas_affected": 10,
+                "people_affected": 500000,
+                "latitude": 6.5244,
+                "longitude": 3.3792
+            },
+            {
+                "state": "Kano",
+                "lgas_affected": 7,
+                "people_affected": 300000,
+                "latitude": 12.0022,
+                "longitude": 8.5920
+            },
+            {
+                "state": "Rivers",
+                "lgas_affected": 5,
+                "people_affected": 200000,
+                "latitude": 4.8156,
+                "longitude": 7.0498
+            },
+            {
+                "state": "Kogi",
+                "lgas_affected": 8,
+                "people_affected": 250000,
+                "latitude": 7.7337,
+                "longitude": 6.6906
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "events": [
+            {
+                "state": "Lagos",
+                "lgas_affected": 10,
+                "people_affected": 500000,
+                "latitude": 6.5244,
+                "longitude": 3.3792
+            },
+            {
+                "state": "Kano",
+                "lgas_affected": 7,
+                "people_affected": 300000,
+                "latitude": 12.0022,
+                "longitude": 8.5920
+            },
+            {
+                "state": "Rivers",
+                "lgas_affected": 5,
+                "people_affected": 200000,
+                "latitude": 4.8156,
+                "longitude": 7.0498
+            },
+            {
+                "state": "Kogi",
+                "lgas_affected": 8,
+                "people_affected": 250000,
+                "latitude": 7.7337,
+                "longitude": 6.6906
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "events": [
+            {
+                "state": "Lagos",
+                "lgas_affected": 10,
+                "people_affected": 500000,
+                "latitude": 6.5244,
+                "longitude": 3.3792
+            },
+            {
+                "state": "Kano",
+                "lgas_affected": 7,
+                "people_affected": 300000,
+                "latitude": 12.0022,
+                "longitude": 8.5920
+            },
+            {
+                "state": "Rivers",
+                "lgas_affected": 5,
+                "people_affected": 200000,
+                "latitude": 4.8156,
+                "longitude": 7.0498
+            },
+            {
+                "state": "Kogi",
+                "lgas_affected": 8,
+                "people_affected": 250000,
+                "latitude": 7.7337,
+                "longitude": 6.6906
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "events": [
+            {
+                "state": "Lagos",
+                "lgas_affected": 10,
+                "people_affected": 500000,
+                "latitude": 6.5244,
+                "longitude": 3.3792
+            },
+            {
+                "state": "Kano",
+                "lgas_affected": 7,
+                "people_affected": 300000,
+                "latitude": 12.0022,
+                "longitude": 8.5920
+            },
+            {
+                "state": "Rivers",
+                "lgas_affected": 5,
+                "people_affected": 200000,
+                "latitude": 4.8156,
+                "longitude": 7.0498
+            },
+            {
+                "state": "Kogi",
+                "lgas_affected": 8,
+                "people_affected": 250000,
+                "latitude": 7.7337,
+                "longitude": 6.6906
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "events": [
+            {
+                "state": "Lagos",
+                "lgas_affected": 10,
+                "people_affected": 500000,
+                "latitude": 6.5244,
+                "longitude": 3.3792
+            },
+            {
+                "state": "Kano",
+                "lgas_affected": 7,
+                "people_affected": 300000,
+                "latitude": 12.0022,
+                "longitude": 8.5920
+            },
+            {
+                "state": "Rivers",
+                "lgas_affected": 5,
+                "people_affected": 200000,
+                "latitude": 4.8156,
+                "longitude": 7.0498
+            },
+            {
+                "state": "Kogi",
+                "lgas_affected": 8,
+                "people_affected": 250000,
+                "latitude": 7.7337,
+                "longitude": 6.6906
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "events": [
+            {
+                "state": "Lagos",
+                "lgas_affected": 10,
+                "people_affected": 500000,
+                "latitude": 6.5244,
+                "longitude": 3.3792
+            },
+            {
+                "state": "Kano",
+                "lgas_affected": 7,
+                "people_affected": 300000,
+                "latitude": 12.0022,
+                "longitude": 8.5920
+            },
+            {
+                "state": "Rivers",
+                "lgas_affected": 5,
+                "people_affected": 200000,
+                "latitude": 4.8156,
+                "longitude": 7.0498
+            },
+            {
+                "state": "Kogi",
+                "lgas_affected": 8,
+                "people_affected": 250000,
+                "latitude": 7.7337,
+                "longitude": 6.6906
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "events": [
+            {
+                "state": "Lagos",
+                "lgas_affected": 10,
+                "people_affected": 500000,
+                "latitude": 6.5244,
+                "longitude": 3.3792
+            },
+            {
+                "state": "Kano",
+                "lgas_affected": 7,
+                "people_affected": 300000,
+                "latitude": 12.0022,
+                "longitude": 8.5920
+            },
+            {
+                "state": "Rivers",
+                "lgas_affected": 5,
+                "people_affected": 200000,
+                "latitude": 4.8156,
+                "longitude": 7.0498
+            },
+            {
+                "state": "Kogi",
+                "lgas_affected": 8,
+                "people_affected": 250000,
+                "latitude": 7.7337,
+                "longitude": 6.6906
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "events": [
+            {
+                "state": "Lagos",
+                "lgas_affected": 10,
+                "people_affected": 500000,
+                "latitude": 6.5244,
+                "longitude": 3.3792
+            },
+            {
+                "state": "Kano",
+                "lgas_affected": 7,
+                "people_affected": 300000,
+                "latitude": 12.0022,
+                "longitude": 8.5920
+            },
+            {
+                "state": "Rivers",
+                "lgas_affected": 5,
+                "people_affected": 200000,
+                "latitude": 4.8156,
+                "longitude": 7.0498
+            },
+            {
+                "state": "Kogi",
+                "lgas_affected": 8,
+                "people_affected": 250000,
+                "latitude": 7.7337,
+                "longitude": 6.6906
+            }
+        ]
+    },
+    {
+        "year": 2022,
+        "events": [
+            {
+                "state": "Lagos",
+                "lgas_affected": 10,
+                "people_affected": 500000,
+                "latitude": 6.5244,
+                "longitude": 3.3792
+            },
+            {
+                "state": "Kano",
+                "lgas_affected": 7,
+                "people_affected": 300000,
+                "latitude": 12.0022,
+                "longitude": 8.5920
+            },
+            {
+                "state": "Rivers",
+                "lgas_affected": 5,
+                "people_affected": 200000,
+                "latitude": 4.8156,
+                "longitude": 7.0498
+            },
+            {
+                "state": "Kogi",
+                "lgas_affected": 8,
+                "people_affected": 250000,
+                "latitude": 7.7337,
+                "longitude": 6.6906
+            }
+        ]
+    },
+    {
+        "year": 2023,
+        "events": [
+            {
+                "state": "Lagos",
+                "lgas_affected": 10,
+                "people_affected": 500000,
+                "latitude": 6.5244,
+                "longitude": 3.3792
+            },
+            {
+                "state": "Kano",
+                "lgas_affected": 7,
+                "people_affected": 300000,
+                "latitude": 12.0022,
+                "longitude": 8.5920
+            },
+            {
+                "state": "Rivers",
+                "lgas_affected": 5,
+                "people_affected": 200000,
+                "latitude": 4.8156,
+                "longitude": 7.0498
+            },
+            {
+                "state": "Kogi",
+                "lgas_affected": 8,
+                "people_affected": 250000,
+                "latitude": 7.7337,
+                "longitude": 6.6906
+            }
+        ]
+    },
+    {
+        "year": 2024,
+        "events": [
+            {
+                "state": "Lagos",
+                "lgas_affected": 10,
+                "people_affected": 500000,
+                "latitude": 6.5244,
+                "longitude": 3.3792
+            },
+            {
+                "state": "Kano",
+                "lgas_affected": 7,
+                "people_affected": 300000,
+                "latitude": 12.0022,
+                "longitude": 8.5920
+            },
+            {
+                "state": "Rivers",
+                "lgas_affected": 5,
+                "people_affected": 200000,
+                "latitude": 4.8156,
+                "longitude": 7.0498
+            },
+            {
+                "state": "Kogi",
+                "lgas_affected": 8,
+                "people_affected": 250000,
+                "latitude": 7.7337,
+                "longitude": 6.6906
+            }
+        ]
+    }
+]
