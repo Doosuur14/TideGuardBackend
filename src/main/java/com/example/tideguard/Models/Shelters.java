@@ -20,6 +20,6 @@ public class Shelters {
     private double latitude;
     private double longitude;
 
-    private String routeDescription; // directions or short info
+    private String routeDescription;
 }
 
